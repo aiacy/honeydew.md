@@ -5,3 +5,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 
 + Add to the Honey Dew List from terminal
 + A keystroke habit tracker
++ A useful reminder to commit something everyday
