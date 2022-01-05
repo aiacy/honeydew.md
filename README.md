@@ -7,3 +7,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + A keystroke habit tracker
 + A useful reminder to commit something everyday
 + Finish off CSS resources on Notion
++ Brainstorm ideas for portfolio
