@@ -10,3 +10,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Brainstorm ideas for portfolio
 + Copy items in this MD file to notion automatically
 + Create everyday habit tracker
++ Create mobile notification on the days I may not open my computer
