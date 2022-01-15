@@ -12,4 +12,5 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Create everyday habit tracker
 + Create mobile notification on the days I may not open my computer
 + Create 3d assets for streaming
-+ Embedded YouTube playlist within Notion   
++ Embedded YouTube playlist within Notion  
++ Create Divinvi Resolve keyboard shortcuts
