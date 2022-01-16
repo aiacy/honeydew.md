@@ -13,4 +13,5 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Create mobile notification on the days I may not open my computer
 + Create 3d assets for streaming
 + Embedded YouTube playlist within Notion  
-+ Create Divinvi Resolve keyboard shortcuts
++ Create Divinci Resolve keyboard shortcuts
++ ML on my YouTube videos to pick up mannerisms and other habits
