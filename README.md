@@ -16,3 +16,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Create Divinci Resolve keyboard shortcuts
 + ML on my YouTube videos to pick up mannerisms and other habits
 + AIACY Brand Guide
++ Repeatable project design documentation 
