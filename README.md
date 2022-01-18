@@ -17,3 +17,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + ML on my YouTube videos to pick up mannerisms and other habits
 + AIACY Brand Guide
 + Repeatable project design documentation 
++ Create an actions tracker - time typing, mouse time, projects planned, code submitted..etc
