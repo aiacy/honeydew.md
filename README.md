@@ -5,6 +5,7 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 
 + ~Add to the Honey Dew List from terminal~ (actually easy, using cat)
 + Create a short form to add to the Honey Dew list from the terminal
++ Explore more command line tools like cat
 + A keystroke habit tracker
 + ~~A useful reminder to commit something everyday~~ (iOS Reminder)
 + Finish off CSS resources on Notion
