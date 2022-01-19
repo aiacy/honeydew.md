@@ -5,7 +5,7 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 
 + Add to the Honey Dew List from terminal
 + A keystroke habit tracker
-~~A useful reminder to commit something everyday~~ (iOS Reminder)
++ ~~A useful reminder to commit something everyday~~ (iOS Reminder)
 + Finish off CSS resources on Notion
 + Brainstorm ideas for portfolio
 + Copy items in this MD file to notion automatically
