@@ -20,3 +20,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Create an actions tracker - time typing, mouse time, projects planned, code submitted..etc
 + AIACY Self taught programmer program
 + Certification study guides for GCP
++ Set up web hosting for clients in GCP
