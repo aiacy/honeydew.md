@@ -18,3 +18,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + AIACY Brand Guide
 + Repeatable project design documentation 
 + Create an actions tracker - time typing, mouse time, projects planned, code submitted..etc
++ AIACY Self taught programmer program
