@@ -23,4 +23,6 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + AIACY Self taught programmer program
 + Get and learn the GCP SDK
 + Certification study guides for GCP
-+ Set up web hosting for clients in GCP
++ Set up web hosting for clients in GCP+ Think of bash scripts to implement
++ Try making an image compressor
++ Create Honeydew List wheel
