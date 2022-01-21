@@ -26,3 +26,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Set up web hosting for clients in GCP+ Think of bash scripts to implement
 + Try making an image compressor
 + Create Honeydew List wheel
++ Create an infinite runner game
