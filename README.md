@@ -29,3 +29,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Create an infinite runner game
 + Create the AIACY active practice session video layout
 + Complete Github README.md
++ Make a hashnode blog for AIACY
