@@ -4,10 +4,10 @@
 You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588fc17b03d94b90b3b75c5f522bb27a?v=6d57b535e2994a16a8fbbb91a56d87e7)
 
 + ~Add to the Honey Dew List from terminal~ (actually easy, using cat)
-+ Create a short form to add to the Honey Dew list from the terminal
++ ~Create a short form to add to the Honey Dew list from the terminal~ (using an alias of course)
 + Explore more command line tools like cat
 + A keystroke habit tracker
-+ ~~A useful reminder to commit something everyday~~ (iOS Reminder)
++ ~A useful reminder to commit something everyday~ (iOS Reminder)
 + Finish off CSS resources on Notion
 + Brainstorm ideas for portfolio
 + Copy items in this MD file to notion automatically
@@ -23,7 +23,8 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + AIACY Self taught programmer program
 + Get and learn the GCP SDK
 + Certification study guides for GCP
-+ Set up web hosting for clients in GCP+ Think of bash scripts to implement
++ Set up web hosting for clients in GCP
++ Think of bash scripts to implement
 + Try making an image compressor
 + Create Honeydew List wheel
 + Create an infinite runner game
@@ -34,3 +35,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + create some GOOD aliases
 + make an astrology api
 + look into adding bat for the terminal for better outputs
++ connect reminders to notion to track daily habits
