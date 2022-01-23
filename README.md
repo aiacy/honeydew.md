@@ -32,3 +32,5 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Make a hashnode blog for AIACY
 + create aiay tracker for lifestyle vlog
 + create some GOOD aliases
++ make an astrology api
++ look into adding bat for the terminal for better outputs
