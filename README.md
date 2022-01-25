@@ -35,4 +35,6 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + create some GOOD aliases
 + make an astrology api
 + look into adding bat for the terminal for better outputs
-+ connect reminders to notion to track daily habits+ learn python
++ connect reminders to notion to track daily habits
++ learn python
++ Set up video set up for showing the metrics I want during recording
