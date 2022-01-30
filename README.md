@@ -38,3 +38,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + connect reminders to notion to track daily habits
 + learn python
 + Set up video set up for showing the metrics I want during recording
++ a beat to photo sync app
