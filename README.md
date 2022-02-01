@@ -40,3 +40,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Set up video set up for showing the metrics I want during recording
 + a beat to photo sync app
 + a flip clock productivity chrome extension
++ add keyboard bindings
