@@ -36,9 +36,10 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + a beat to photo sync app
 + a flip clock productivity chrome extension
 + add keyboard bindings
++ XRP hackathon nft hosting
 + ~Add to the Honey Dew List from terminal~ (actually easy, using cat)
 + ~Create a short form to add to the Honey Dew list from the terminal~ 
 + ~A useful reminder to commit something everyday~ (iOS Reminder)(using an alias of course)
-+ ~Create Honeydew List wheel~ \(created at[Picker Wheel](https://pickerwheel.com/pw?id=HA7jU)\)
++ ~Create Honeydew List wheel~ \(created at [Picker Wheel](https://pickerwheel.com/pw?id=2HstT)\)
 + ~look into adding bat for the terminal for better outputs~ (installed and need to explore more)
-+ ~hotkey bindings for email~ (done as a keyboard text autocomplete)
++ ~hotkey bindings for email~ (done as a keyboard text autocomplete)+ a synthwave study page like lofi
