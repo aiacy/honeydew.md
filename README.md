@@ -44,3 +44,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + ~look into adding bat for the terminal for better outputs~ (installed and need to explore more)
 + ~hotkey bindings for email~ (done as a keyboard text autocomplete)+ a synthwave study page like lofi
 + update hackathon to include ai extension for implementing APIs using OPENAPI guidelines
++ serve anki cards on gcp
