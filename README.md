@@ -45,3 +45,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + ~hotkey bindings for email~ (done as a keyboard text autocomplete)+ a synthwave study page like lofi
 + update hackathon to include ai extension for implementing APIs using OPENAPI guidelines
 + serve anki cards on gcp
++ Create computer to stream on
