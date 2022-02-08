@@ -46,8 +46,6 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + a synthwave study page like lofi
 + update hackathon to include ai extension for implementing APIs using OPENAPI guidelines
 + serve anki cards on gcp
-<<<<<<< HEAD
 + Create computer to stream on
-=======
 + create a link page like hoo.be and not gatekeeper it and host on github
->>>>>>> 83fdb9ab925e18658ca82828270cb0ffa46912dd
+
