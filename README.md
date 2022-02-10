@@ -49,3 +49,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Create computer to stream on
 + create a link page like hoo.be and not gatekeeper it and host on github
 
++ Git Emmersion video
