@@ -50,3 +50,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + create a link page like hoo.be and not gatekeeper it and host on github
 
 + Git Emmersion video
++ time entry journal
