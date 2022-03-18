@@ -52,3 +52,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + Git Emmersion video
 + time entry journal
 + add wakatime integration into discord for community
++ create form css generator
