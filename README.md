@@ -54,3 +54,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + add wakatime integration into discord for community
 + create form css generator
 + build a frontendmentor challenege picker for IG
++ create blender assets
