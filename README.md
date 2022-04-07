@@ -55,4 +55,4 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + create form css generator
 + build a frontendmentor challenege picker for IG
 + create blender assets
-+ colour palette crafted from AI and using words or color picker to give you some in the colour range
++ colour palette crafted from AI and using words or color picker to give you some in the colour range+ make qr code component work
