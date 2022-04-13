@@ -48,7 +48,6 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + serve anki cards on gcp
 + Create computer to stream on
 + create a link page like hoo.be and not gatekeeper it and host on github
-
 + Git Emmersion video
 + time entry journal
 + add wakatime integration into discord for community
@@ -56,3 +55,5 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + build a frontendmentor challenege picker for IG
 + create blender assets
 + colour palette crafted from AI and using words or color picker to give you some in the colour range+ make qr code component work
++ create google calendar iterm2 plugin
+
