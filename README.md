@@ -56,4 +56,6 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + create blender assets
 + colour palette crafted from AI and using words or color picker to give you some in the colour range+ make qr code component work
 + create google calendar iterm2 plugin
-
++ create codeblock extension for discord
++ tailwind vscode extension that refactors your arbutraiy values to 
+tailwind values
