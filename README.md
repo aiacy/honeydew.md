@@ -59,3 +59,5 @@ You can find a copy of it also on my [Notion Roadmap](https://www.notion.so/588f
 + create codeblock extension for discord
 + tailwind vscode extension that refactors your arbutraiy values to 
 tailwind values
++ create an auto redacted screen capture. Change real names and addresses while showing 
+overall processes
